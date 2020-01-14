@@ -1,0 +1,14 @@
+.middlesection{
+    border: 3px dashed lightgray;
+    height: 30vh;
+}
+
+
+.rounded-pill{
+    width: 80%;
+    height: 8vh;
+}
+
+.btn-secondary{
+    opacity: 0.2;
+}
