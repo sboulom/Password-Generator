@@ -6,8 +6,8 @@ The length of the password options are from 8 characters to 128.
 There is a mix between numbers, upper.lower case letters and special characters to create a secured password. Copy and enjoy!
 
 
-file:///C:/Users/Steven%20Boulom/UCLA%20Bootcamp/Projects/Password-Generator/index.html
+https://github.com/sboulom/Password-Generator.git
 
 https://github.com/sboulom/Password-Generator
 
-<img src="images/screenshot.png
+<img src="images/screenshot.png"
