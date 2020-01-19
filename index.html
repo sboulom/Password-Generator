@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Random Password Generator</title>
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -27,26 +27,27 @@
                         <h2>Generate a Password
                         </h2>
                         <hr>
-                        <div class="card text-center text-secondary">
-                            <div class="card-body middlesection rounded">
-                                <h4>Your Secure Password</h4>
+                        <div>
+                            <div>
+                            <input type="text" id="display">
 
                                 <div id="Password"></div>
 
                             </div>
                         </div>
-                        <hr>
+                        <input type="range" min="0" max="128" name="slider" id="slider">
 
                         <div class="row">
                             <div class="col-sm-6">
-                                <button id="passwordBtn" class="rounded-pill btn btn-danger">
+                                <button onclick ="generate()" id="passwordBtn" class="rounded-pill btn btn-danger">
                                     <h3>Generate Password</h3>
                                 </button>
+                                <br />
                             </div>
                             <div class="col-sm-6">
-                                <button id="clipboardBtn" class="rounded-pill btn btn-secondary">
+                                <button onclick ="copyToClipboard()" class="rounded-pill btn btn-secondary">
                                     <h3>Copy to Clipboard</h3>
-                                </button>
+                                </button >
 
                             </div>
                         </div>

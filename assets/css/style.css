@@ -12,3 +12,7 @@
 .btn-secondary{
     opacity: 0.2;
 }
+
+#slider, #display{
+    width: 100%;
+}
