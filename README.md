@@ -9,3 +9,5 @@ There is a mix between numbers, upper.lower case letters and special characters 
 file:///C:/Users/Steven%20Boulom/UCLA%20Bootcamp/Projects/Password-Generator/index.html
 
 https://github.com/sboulom/Password-Generator
+
+<img src="images/screenshot.png
