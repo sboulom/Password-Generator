@@ -23,20 +23,6 @@ function generate(){
             alert("Invalid password length (8-128)")
         }
 
-    // let complexity = document.getElementById("slider").value;
-    
-    // let values = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!#$%&'()*+,-./:;<=>?@[\]^_`{|}~0123456789";
-    
-    // let password = "";
-    
-
-    // for(var i =0; i <= complexity; i++){
-    //     password = password + values.charAt(Math.floor(Math.random() * Math.floor(values.length -1)));
-    // }
-    
-    // // document.getElementById("display").value = password;
-    // document.getElementById("Password").innerHTML=password
-
 }
 
 
