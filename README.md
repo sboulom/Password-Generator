@@ -6,8 +6,4 @@ The length of the password options are from 8 characters to 128.
 There is a mix between numbers, upper.lower case letters and special characters to create a secured password. Copy and enjoy!
 
 
-https://github.com/sboulom/Password-Generator.git
-
-https://github.com/sboulom/Password-Generator
-
-<img src="images/screenshot.png"
+![Screenshot (78)](https://user-images.githubusercontent.com/57572182/74595141-fb98da80-4ff2-11ea-95c8-dee61a03a01e.png)
